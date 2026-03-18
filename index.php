@@ -56,7 +56,7 @@
 
                 <div class="navbar-nav gap-4">
 
-                    <a class="nav-link text-white fw-semibold" href="produtos.html.php">
+                    <a class="nav-link text-white fw-semibold" href="produtos.php">
                         Produtos
                     </a>
 

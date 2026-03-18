@@ -41,6 +41,11 @@
                         Não tem conta?
                         <a href="cadastrarTela.php">Criar conta</a>
                     </p>
+                    <!-- LINK PARA REDEFINIÇÃO DE SENHA -->
+                    <p class="text-center mt-2">
+                        Esqueci minha senha
+                        <a href="redefinir.php">Redefinir</a>
+                    </p>
 
                 </div>
 

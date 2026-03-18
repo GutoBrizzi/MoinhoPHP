@@ -43,6 +43,12 @@
 
                     </form>
 
+                    <!-- LINK PARA LOGIN -->
+                    <p class="text-center mt-3">
+                        Já tem conta?
+                        <a href="login.php">Entrar</a>
+                    </p>
+
                 </div>
 
             </div>
