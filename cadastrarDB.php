@@ -11,7 +11,10 @@ if($_SERVER['REQUEST_METHOD'] == 'POST'){
 
     if($conn->query($sql) === TRUE){
 
-        header("Location: login.php");
+        echo "<script>
+                alert('Usuário cadastrado com sucesso!');
+                window.location.href='login.php';
+              </script>";
         exit();
 
     } else {
